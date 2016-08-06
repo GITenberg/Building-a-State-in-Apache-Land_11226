@@ -1,0 +1,25 @@
+_repo: Building-a-State-in-Apache-Land_11226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poston, Charles D. (Charles Debrille)
+    birthdate: 1825
+    deathdate: 1902
+    gutenberg_agent_id: '3892'
+    url: http://www.gutenberg.org/2009/agents/3892
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Debrille_Poston
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Arizona -- History'
+- GITenberg
+title: Building a State in Apache Land
+url: http://www.gutenberg.org/ebooks/11226
